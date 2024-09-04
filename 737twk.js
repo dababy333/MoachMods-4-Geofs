@@ -1,4 +1,4 @@
-geofs.aircraft.instance.setup.minimumSpeed = 150;
+geofs.aircraft.instance.setup.minimumSpeed = 400;
 geofs.aircraft.instance.setup.engineInertia = .75;
 geofs.aircraft.instance.setup.dragFactor = 1;
 geofs.aircraft.instance.rigidBody.mass = 55000;
